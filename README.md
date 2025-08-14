@@ -43,7 +43,7 @@ I thrive on challenges and love the process of learning — whether it’s debug
 <summary> 💻 Dream stack: </summary><br>
   
   - React, Next.js,
-  - CSS Frameworks: Bootstrap, TailwindCSS
+  - CSS Frameworks: Bootstrap, TailwindCSS,
   - Some Libraries,
   - CMS and PHP,
   - __and a lot more...__
@@ -52,7 +52,7 @@ I thrive on challenges and love the process of learning — whether it’s debug
 
 <br>
 
-=͟͟͞͞ ⌧ How to reach me: https://t.me/sanechkaz 
+=͟͟͞͞ ⌧ How to reach me: https://t.me/saneckaz 
 
 <hr>
 
