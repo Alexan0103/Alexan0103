@@ -3,7 +3,7 @@
 💨💨💨
 ## I'm a *self-taught* beginner frontend developer💻... <br> 
 ...My journey into coding began with a fascination with how websites work, a desire to create things digitally. <br> My path is just starting, but every line of code is a step toward mastery🎓 <br>
-I thrive on challenges and love the process of learning — whether it’s debugging tricky JavaScript issues, optimizing CSS for smoother animations, or exploring new frameworks. Every project, big or small, is an opportunity to grow and refine my skills📈
+I thrive on challenges and love the process of learning. <br> Every project, big or small, is an opportunity to grow and refine my skills📈
 
 ![](assets/miniman.png) 
 > *"Fail fast, learn faster!"*
@@ -11,7 +11,7 @@ I thrive on challenges and love the process of learning — whether it’s debug
 
 
 ╰┈➤ *Learning → Coding → Repeating* ↳↰ <br>
-###### I believe in "learning by doing" — whether it’s through personal projects or breaking things in a controlled environment. <br> Clean code, user-centric design, and continuous improvement are what drive me forward.
+
 <hr>
 
 ### **🔧 Tech Toolkit:**  
